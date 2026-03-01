@@ -23,7 +23,7 @@ const skillCategories = [
   {
     title: 'MLOps & DevOps',
     icon: Cog,
-    skills: ['Docker', 'Kubernetes', 'Git', 'CI/CD', 'Linux'],
+    skills: ['Docker', 'Git', 'CI/CD', 'Linux'],
     color: 'from-sky-500 to-blue-500',
   },
   {

@@ -7,7 +7,6 @@ const tools = [
   { name: 'OpenCV', icon: '👁️' },
   { name: 'Hugging Face', icon: '🤗' },
   { name: 'Docker', icon: '🐳' },
-  { name: 'Kubernetes', icon: '☸️' },
   { name: 'AWS', icon: '☁️' },
   { name: 'Linux', icon: '🐧' },
   { name: 'Git', icon: '📦' },

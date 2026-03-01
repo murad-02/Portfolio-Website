@@ -1,73 +1,101 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+# 🤖 Muradul Islam Portfolio
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+### Engineering Intelligent Systems for Real-World Impact
 
-## How can I edit this code?
+[![GitHub Stars](https://img.shields.io/github/stars/murad-02/portfolio?style=for-the-badge&logo=github&color=6366f1)](https://github.com/murad-02/portfolio)
+[![GitHub Forks](https://img.shields.io/github/forks/murad-02/portfolio?style=for-the-badge&logo=github-sponsors&color=a855f7)](https://github.com/murad-02/portfolio)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=open-source-initiative&color=ec4899)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+![Banner](./public/readme-banner.png)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+_A premium, high-performance portfolio showcasing cutting-edge AI & Machine Learning solutions._
 
-Changes made via Lovable will be committed automatically to this repo.
+[🌐 Live Demo](https://muradulislam.com) | [📄 Resume](https://muradulislam.com/Muradul_Islam_Resume.pdf) | [📧 Contact](mailto:muradulislam.mi02@gmail.com)
 
-**Use your preferred IDE**
+</div>
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🌟 Key Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **✨ Interactive Particle Background**: A dynamic, fluid background that reacts to mouse movements, powered by custom Canvas logic.
+- **🎨 Glassmorphism & Modern UI**: Built with a sleek, translucent design language using Tailwind CSS and Radix UI.
+- **🚀 Ultra-Fast Performance**: Optimized builds using Vite and React, ensuring near-instant load times.
+- **🧠 AI Solutions Showcase**: Dedicated sections for Large Language Models (LLMs), Computer Vision, and Predictive Analytics.
+- **📱 Fully Responsive**: Seamless experience across mobile, tablet, and desktop devices.
+- **🔗 Form Integration**: Fully functional contact form integrated with EmailJS for direct communication.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+| Category                | Technologies                                 |
+| :---------------------- | :------------------------------------------- |
+| **Frontend**      | React 18, Vite, TypeScript, Tailwind CSS     |
+| **UI Components** | Shadcn/UI, Radix UI, Lucide Icons            |
+| **Animations**    | Framer Motion (integrated), Tailwind Animate |
+| **Data Viz**      | Recharts                                     |
+| **Tools**         | Git, PNPM/Bun/NPM                            |
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 📂 Project Structure
+
+```bash
+├── 📁 public           # Static assets (images, pdf, icons)
+├── 📁 src              # Source code
+│   ├── 📁 assets       # Local images and media
+│   ├── 📁 components   # Reusable UI components
+│   │   ├── 📁 ui       # Shadcn UI core components
+│   │   └── ...        # Section-specific components (Hero, About, etc.)
+│   ├── 📁 hooks        # Custom React hooks
+│   ├── 📁 pages        # Page-level components
+│   └── 📄 App.tsx      # Main application logic
+├── 📄 tailwind.config  # Design system configuration
+└── 📄 vite.config.ts   # Build tool configuration
+```
+
+---
+
+## ⚡ Quick Start
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/murad-02/portfolio.git
+cd portfolio
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+# or
+bun install
+```
+
+### 3. Start development server
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📬 Connectivity
 
-**Use GitHub Codespaces**
+Let's build something amazing together!
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muradul-islam02/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murad-02)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradulislam.mi02@gmail.com)
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<p align="center">
+  Developed by <a href="https://github.com/murad-02">Muradul Islam</a>
+</p>
